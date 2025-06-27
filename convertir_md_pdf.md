@@ -49,3 +49,15 @@ Se obtuvo un archivo donde se observa:
 Ver resultado
 
 ![](img/2025-06-27_13-20-23.PNG)
+
+## Tener en cuenta los siguientes detalles
+
+Para que se visualicen los bullets, es necesario dejar un espacio entre el ultimo texto previo a los bullets:
+```bash
+Este es mi último texto:
+
+* Bullet 1
+* Bullet 2
+* etc
+```
+
