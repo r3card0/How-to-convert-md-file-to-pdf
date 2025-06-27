@@ -45,3 +45,7 @@ Se obtuvo un archivo donde se observa:
 5. Permite ver el texto en negrita y cursiva
 6. No hay salto de página entre el texto y la imágen
 7. Permite visualizar tablas
+
+Ver resultado
+
+![](img/2025-06-27_13-20-23.PNG)
